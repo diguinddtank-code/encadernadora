@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  
+  <!-- Página Inicial / Home -->
+  <url>
+    <loc>https://encadernadorajr.com.br/</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/aD9YWAr.png</image:loc>
+      <image:title>Encadernadora JR - Logomarca Oficial</image:title>
+      <image:caption>Oficina de encadernação artesanal e capa dura no Mercado Novo em Belo Horizonte</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/lvR4geN.jpeg</image:loc>
+      <image:title>Oficina da Encadernadora JR no Mercado Novo</image:title>
+      <image:caption>Localizada no Mercado Novo de Belo Horizonte, Corredor O, Loja 1249</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Página Sobre Nós / História -->
+  <url>
+    <loc>https://encadernadorajr.com.br/sobre</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/lvR4geN.jpeg</image:loc>
+      <image:title>Nossa Oficina no Mercado Novo de BH</image:title>
+      <image:caption>Mais de 20 anos de tradição em encadernação manual e personalizada em Belo Horizonte</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Página de Serviços Detalhados -->
+  <url>
+    <loc>https://encadernadorajr.com.br/servicos</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/VYufMUk.jpeg</image:loc>
+      <image:title>Encadernação Capa Dura e Livros Fiscais</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/ax3BBS8.jpeg</image:loc>
+      <image:title>Encadernação de TCC e Monografias</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/LtC4S4P.jpeg</image:loc>
+      <image:title>Porta Diplomas com Gravação em Dourado</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/UEN7zCf.jpeg</image:loc>
+      <image:title>Agendas e Planners Personalizados</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/JQVDWw2.jpeg</image:loc>
+      <image:title>Livros Personalizados e Tiragens Especiais</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://i.imgur.com/3grstdw.jpeg</image:loc>
+      <image:title>Cardápios Resistentes para Restaurantes</image:title>
+    </image:image>
+  </url>
+
+  <!-- Página de Contato e Localização NAP -->
+  <url>
+    <loc>https://encadernadorajr.com.br/contato</loc>
+    <lastmod>2026-10-27</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://i.imgur.com/lvR4geN.jpeg</image:loc>
+      <image:title>Como Chegar na Encadernadora JR - Mercado Novo</image:title>
+    </image:image>
+  </url>
+
+</urlset>
